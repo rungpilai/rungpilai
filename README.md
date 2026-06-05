@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/LpDiryMEixuceVyRMi/giphy.gif" width="200">
 
 🌱
-I’m a creative technologist & ux/ui engineer
+I’m a creative technologist & ux/ui engineer based in bkk,th.
 
 📫
 
