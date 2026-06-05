@@ -1,8 +1,8 @@
-# Hi, I'm Rung P 👋
+# Hi, I'm Rungpilai (rúng · pʰée · lye) 👋
 <img src="https://media.giphy.com/media/LpDiryMEixuceVyRMi/giphy.gif" width="200">
 
 🌱
-I’m a UX/UI designer with a passion for expanding my skills in front-end development.
+I’m a creative technologist & ux/ui engineer
 
 📫
 
