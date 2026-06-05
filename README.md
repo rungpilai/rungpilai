@@ -1,4 +1,4 @@
-# Hi, I'm Rungpilai (rúng · pʰée · lye) 👋
+# Hi, I'm Rungpilai (rúng·pʰée·lye) 👋
 <img src="https://media.giphy.com/media/LpDiryMEixuceVyRMi/giphy.gif" width="200">
 
 🌱
