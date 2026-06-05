@@ -1,7 +1,7 @@
 
 <img src="https://media0.giphy.com/media/yN9GT6JwcaBA2yrR1q/giphy.gif" width="45" alt="pixel bunny" /> `Hi, I'm Rungpilai (rúng·pʰée·lye) ⭐`
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=24&pause=1000&color=C49EE6&vCenter=true&width=380&lines=Creative+Technologist;UX%2FUI+Designer" alt="Creative Technologist / UX/UI Designer" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=24&pause=1000&color=C49EE6&vCenter=true&width=380&lines=Creative+Technologist;UX%2FUI+Engineer" alt="Creative Technologist / UX/UI Engineer" />
 
 <img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpodTBmMHdjMWQ1b3h2YXMweHJtcHdjdDB6eGxjZHZoZDRpbGl5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F7E6wQVz0ITKiiyQGf/giphy.gif"  width="200" />
 
